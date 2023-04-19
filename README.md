@@ -11,7 +11,7 @@ Crie um sistema para auxiliar Antônio nessa gestão, atenção para os critéri
 Critérios de aceite técnico:
 
 - O sistema deve contar com dados persistidos em banco de dados. O desenvolvedor deve modelar e criar o banco de dados;
-- O sistema deve utilizar as três camadas aprendidas na aula: apresentação, domínio (negócio) e acesso a dados;
+- O sistema deve utilizar as três camadas: apresentação, domínio (negócio) e acesso a dados;
 - O desenvolvedor deve respeitar a responsabilidade de cada camada colocando nela apenas ao que a compete;
 - O sistema deve utilizar DAO's para acesso aos dados;
 - O sistema deve utilizar o padrão Repository;
